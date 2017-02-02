@@ -8,11 +8,9 @@ The crawler has an user input that accepts a URL of your choice. The url should 
 
 ## Installation
 
-This app has been devloped with node js and utilises various npm modules. Just be sure to have [Node](http://nodejs.org/) installed first. Then simply clone the repo as usual and then use:
+This app has been developed with node js and utilises various npm modules. Just be sure to have [Node](http://nodejs.org/) installed first. Then simply clone the repo and install as usual:
 
     $ npm install
-
-This should install any required dependencies needed in order to run the code.
 
 To run the app:
 
@@ -20,7 +18,7 @@ To run the app:
     or
     $ node server.js
 
-This app should run at be available localhost on port 8081 i.e. http://localhost:8081
+This app should then run in your web browser of choice, at be available at localhost on port 8081 i.e. http://localhost:8081
 
 
 ## Next Steps

@@ -4,7 +4,7 @@
 
 This is a simple web crawler that I have put together using javascript.
 
-The crawler has an user input that accepts a URL of your choice. The url should be formatted e.g. [http://wiprodigital.com](http://wiprodigital.com). If valid upon submtting the form will return a basic site map or index of all pages from the selected url.
+The crawler has an user input that accepts a URL of your choice. The url should be formatted e.g. [http://wiprodigital.com](http://wiprodigital.com). If valid, submtting the form will return a basic site map or list of links to other local resources on that page/site.
 
 ## Installation
 
